@@ -1,6 +1,7 @@
 # Worker
 
 Esta aplicação permite registrar informações de trabalhadores, bem como cadastrar os contratos associados a cada um deles.
+Exercício elaborado no curso de Java do prof. Nelio Alves.
 
 ## Funcionalidades
 
