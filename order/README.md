@@ -4,7 +4,7 @@ Sistema de cadastro de pedidos com dados de clientes, produtos e status de pedid
 
 ## Tela do Sistema
 
-```cmd
+```text
 Enter client data:
 Name: Alex Green
 Email: alex@gmail.com

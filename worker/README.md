@@ -5,7 +5,7 @@ Exercício elaborado no curso de Java do prof. Nelio Alves.
 
 ## Tela do Sistema
 
-```cmd
+```text
 Enter department's name: Design
 Enter worker data:
 Name: Alex
