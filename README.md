@@ -7,4 +7,5 @@ Coleção de projetos montados durante o aprendizado da linguagem Java.
 
 * [Worker](/worker) - cadastro de trabalhadores e contratos, com visualização da receita do mês e ano desejado
 * [Order](/order) - cadastro de pedidos com controle de clientes e produtos
+* [Employee](/employee) - cadastro de funcionários próprios e terceirizados
 
