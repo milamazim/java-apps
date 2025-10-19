@@ -10,3 +10,4 @@ Coleção de projetos montados durante o aprendizado da linguagem Java.
 * [Employee](/employee) - cadastro de funcionários próprios e terceirizados
 * [Product](/product/) - cadastro de produtos comuns, importados ou usados e suas respectivas etiquetas
 * [Shape](/shape/) - cálculo de área de formas geométricas
+* [TaxPayer](/taxpayer/) - cálculo fictício de imposto de renda pessoa física / jurídica
