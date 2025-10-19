@@ -21,6 +21,7 @@ public class Individual extends TaxPayer {
     this.healthExpeditures = healthExpeditures;
   }
 
+  @Override
   public final Double tax(){
 
     double taxes;

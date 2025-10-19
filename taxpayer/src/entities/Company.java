@@ -21,6 +21,7 @@ public class Company extends TaxPayer {
     this.numberOfEmployees = numberOfEmployees;
   }
 
+  @Override
   public final Double tax(){
        
     if (numberOfEmployees > 10) {
