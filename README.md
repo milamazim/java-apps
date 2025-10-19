@@ -11,3 +11,4 @@ Coleção de projetos montados durante o aprendizado da linguagem Java.
 * [Product](/product/) - cadastro de produtos comuns, importados ou usados e suas respectivas etiquetas
 * [Shape](/shape/) - cálculo de área de formas geométricas
 * [TaxPayer](/taxpayer/) - cálculo fictício de imposto de renda pessoa física / jurídica
+* [Lesson](/lesson/) - cadastro de aulas de video e tarefas informando a duração total do curso
