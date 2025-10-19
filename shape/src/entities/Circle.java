@@ -7,6 +7,7 @@ public class Circle extends Shape{
   private Double radius;
 
   public Circle(){
+    super();
   }
 
   public Circle(Color color, Double radius) {
@@ -22,6 +23,7 @@ public class Circle extends Shape{
     this.radius = radius;
   }
 
+  @Override
   public final Double area(){
     return Math.PI * Math.pow(radius,2);
   }
