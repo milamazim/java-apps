@@ -14,5 +14,5 @@ Coleção de projetos montados durante o aprendizado da linguagem Java.
 * [Lesson](/lesson/) - cadastro de aulas de video e tarefas informando a duração total do curso
 * [Account](/account/) - cadastro de conta com movimentação de saldo e tratamento de exceções
 * [File](/file/) - leitura e escrita em arquivos com manipulação dos dados
-* [Car Rentaç](/carrental/) - serviço de aluguel de veiculos
+* [Car Rental](/carrental/) - serviço de aluguel de veiculos
 * [Contract](/contract/) - serviço de emissão de parcelas de pagamento para contrato
